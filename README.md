@@ -11,6 +11,10 @@ much cheaper than you think.
 ### Network Diagram
 This is my current network configuration.  I used Visio to create the diagram.
 
+<p align="center">
+  <img width="600" height="600" src="https://raw.githubusercontent.com/so87/Home-Lab/master/network-diagram.PNG">
+</p>
+
 
 ### My Hardware
 Below is the hardware I use to run my home network.  My network works great for my needs, 
