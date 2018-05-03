@@ -3,27 +3,69 @@
 </p>
 
 # Home Lab
+This repository holds the documentation for my home lab I've built up and guides for others wanting
+to build their own home network. Building your own home network is the best way to learn and can be
+much cheaper than you think.
+
 
 ### Network Diagram
- picture
+This is my current network configuration.  I used Visio to create the diagram.
+
 
 ### My Hardware
- table
+Below is the hardware I use to run my home network.  My network works great for my needs, 
+but by no means could support several users.  Building a network for enterprise use is a different beast.
+Define what you need and want from your home lab before even thinking about buying hardware. Do lots of research. Many hardware buying guides from bloggers and streamers spend way too much money.  For example, if you are only going to store
+files and host your own website, it makes no sense to spend $3,000 on a server with 52 GB of RAM. 
+It's tempting to buy the latest and greatest hardware.  Always: 1.Ready  2.Aim  3.Fire
 
-### Configuration Guides
- **link to another site**
- OSSIM vulnerability scanner and traffic monitor
- Configuring for pentesting and malware analysis
- Docker
- django
- tor node
- pihole
+Networking Equipment
+
+| Function             | Name                       | Cost $  |
+| -------------        |:-------------:             | -----:  |
+| Router/Firewall      | Unifi USG                  | 112     |
+| Switch               | Unifi 8 port POE Switch    | 102     |
+| Wifi                 | Unifi UAC Pro              | 130     |
+| Rack/Rails/Shelves   | 18U 19"                    | 190     |
+
+Server
+
+| Function             | Name                       | Cost $  |
+| -------------        |:-------------:             | -----:  |
+| Server               | HP DL 380 G7               | 100     |
+| RAM                  | DDR3 SRAM 8GB x 4          | 50      |
+| CPU                  | Xeon E5645 2.4 Ghz x 2     | 32      |
+| Hard Drives          | 10 K SAS HP                | 90      |
+| External Storage     | Unifi UAC Pro              | 80      |
+| UPS                  |                            |         |
+
+Wifi Hacking Practice
+
+| Function             | Name                       | Cost $  |
+| -------------        |:-------------:             | -----:  |
+| Router/Wifi          | Netgear WNR1000v2          | 30     |
+| Wifi Hacking Adapter | ALFA Networks AWUS036H USB 500mW    | 20     |
+| Victum Computer      | Dell 8GB 2.4 Gz Win 7      | 0     |
+
+
+### Configuration Guides(in progress)
+ **link to another site** <br />
+ OSSIM vulnerability scanner and traffic monitor <br />
+ Configuring for pentesting and malware analysis <br />
+ Docker <br />
+ django <br />
+ tor node <br />
+ pihole <br />
 
 ### Buying a Server and Hardware buying guide
- gopher
- reddit recommendations
- nas
+ Use this [LINK](https://www.labgopher.com/) to buy servers.  It filters ebay for servers based on your inputs. <br />
+ Reddit also has a great write-up for getting started <br />
+ [Reddit Guide](https://www.reddit.com/r/homelab/wiki/buyingguide)
  
+ Here is a great guide for making your own home NAS <br />
+ [DIY NAS](https://blog.briancmoses.com/2017/03/diy-nas-2017-edition.html) 
 
 # Community
-reddit homelab
+This is a really great community for seeing what others do.  Great resource for building your
+own homelab.  Although, most everyone in this subreddit overspends on equipment. <br />
+[Reddit Home Lab](https://www.reddit.com/r/homelab/)
