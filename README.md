@@ -12,7 +12,7 @@ much cheaper than you think.
 This is my current network configuration.  I used Visio to create the diagram.
 
 <p align="center">
-  <img width="600" height="600" src="https://raw.githubusercontent.com/so87/Home-Lab/master/network-diagram.PNG">
+  <img width="600" height="600" src="https://github.com/so87/Home-Lab/blob/master/network-diagram.PNG">
 </p>
 
 
