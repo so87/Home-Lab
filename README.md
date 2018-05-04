@@ -11,9 +11,11 @@ much cheaper than you think.
 ### Network Diagram
 This is my current network configuration.  I used Visio to create the diagram.
 
-<p align="center">
-  <img width="600" height="600" src="https://github.com/so87/Home-Lab/blob/master/simon%20network.pdf">
-</p>
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/so87/Home-Lab/blob/master/simon%20network.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/so87/Home-Lab/blob/master/simon%20network.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
 
 ### My Hardware
