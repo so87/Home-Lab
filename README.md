@@ -10,13 +10,11 @@ much cheaper than you think.
 
 ### Network Diagram
 This is my current network configuration.  I used Visio to create the diagram.
+[NETWORK DIAGRAM](https://github.com/so87/Home-Lab/blob/master/simon%20network.pdf)
 
-<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/so87/Home-Lab/blob/master/simon%20network.pdf">
-        This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/so87/Home-Lab/blob/master/simon%20network.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
-
+### Software Development Excellence
+The best thing about having all of this equipment is being able to deliver high quality software.  Every piece of software I write goes through my own Jenkins pipeline.  This pipeline runs static code analysis tests to reduce the amount of bugs, vulnerabilities, and technical debt.  I also write my own mocha security tests with Mocha to ensure my architecture is secure.  Once all of these tests pass, the code gets merged into production, and automatically deployed.  See the diagram.
+  [CODING PROCESS](https://github.com/so87/Home-Lab/blob/master/development-pipeline.pdf)
 
 ### My Hardware
 Below is the hardware I use to run my home network.  My network works great for my needs, 
