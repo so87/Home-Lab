@@ -39,11 +39,11 @@ Server
 | Function             | Name                       | Cost $  |
 | -------------        |:-------------:             | -----:  |
 | Server               | HP DL 380 G7               | 100     |
-| RAM                  | DDR3 SRAM 8GB x 4          | 50      |
+| RAM                  | DDR3 SRAM 8GB x 6          | 16      |
 | CPU                  | Xeon E5645 2.4 Ghz x 2     | 32      |
-| Hard Drives          | 10 K SAS HP                | 90      |
+| Hard Drives          | 10 K SAS HP 300GB x 6      | 20      |
 | External Storage     | Unifi UAC Pro              | 80      |
-| UPS                  |                            |         |
+| UPS                  | Tripp Lite 1500VA          | 200     |
 
 Wifi Hacking Practice
 
