@@ -1,0 +1,4 @@
+# Jenkins/Git Integration
+https://docs.bitnami.com/aws/how-to/create-ci-pipeline/
+turn off "allow requests to the local network from hooks and services" in github if you are pulling from local github
+
