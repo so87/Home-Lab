@@ -55,13 +55,7 @@ Wifi Hacking Practice
 
 
 ### Configuration Guides(in progress)
- **link to another site** <br />
- OSSIM vulnerability scanner and traffic monitor <br />
- Configuring for pentesting and malware analysis <br />
- Docker <br />
- django <br />
- tor node <br />
- pihole <br />
+[LINK](https://github.com/so87/Home-Lab/blob/master/Configuration%20Guides.md)
 
 ### Buying a Server and Hardware buying guide
  Use this [LINK](https://www.labgopher.com/) to buy servers.  It filters ebay for servers based on your inputs. <br />
