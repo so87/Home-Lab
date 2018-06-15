@@ -1,0 +1,8 @@
+# Jenkins/Docker Integration
+1. Storing Docker files
+
+2. Storing Docker-compose files
+
+3. Building containers
+
+4. Deployment configurations with Ansible
