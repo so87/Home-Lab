@@ -29,8 +29,8 @@ Networking Equipment
 | -------------        |:-------------:             | -----:  |
 | Router/Firewall      | Unifi USG                  | 112     |
 | Switch               | Unifi 8 port POE Switch    | 102     |
-| Wifi                 | Unifi UAC Pro              | 130     |
-| Rack/Rails/Shelves   | 18U 19"                    | 190     |
+| Wifi                 | Unifi UAC Pro              | 120     |
+| Rack/Rails/Shelves   | 18U 19"                    | 170     |
 
 Server
 
@@ -38,10 +38,10 @@ Server
 | -------------        |:-------------:             | -----:  |
 | Server               | HP DL 380 G7               | 100     |
 | RAM                  | DDR3 SRAM 8GB x 6          | 16      |
-| CPU                  | Xeon E5645 2.4 Ghz x 2     | 32      |
+| CPU                  | Xeon E5645 2.4 Ghz x 2     | 16      |
 | Hard Drives          | 10 K SAS HP 300GB x 6      | 20      |
-| External Storage     | Unifi UAC Pro              | 80      |
-| UPS                  | Tripp Lite 1500VA          | 200     |
+| External Storage     | 8TB Seagate                | 120     |
+| UPS                  | Tripp Lite 1500VA          | 160     |
 
 Wifi Hacking Practice
 
