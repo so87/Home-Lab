@@ -10,11 +10,16 @@ much cheaper than you think.
 
 ### Network Diagram
 This is my current network configuration.  I used Visio to create the diagram.
-[NETWORK DIAGRAM](https://github.com/so87/Home-Lab/blob/master/simon%20network.pdf)
+[NETWORK DIAGRAM](https://github.com/so87/Home-Lab/blob/master/simon%20network.pdf).
 
 ### Software Development Excellence
 The best thing about having all of this equipment is being able to deliver high quality software.  Every piece of software I write goes through my own Jenkins pipeline.  This pipeline runs static code analysis tests to reduce the amount of bugs, vulnerabilities, and technical debt.  I also write my own mocha security tests with Mocha to ensure my architecture is secure.  Once all of these tests pass, the code gets merged into production, and automatically deployed.  See the diagram.
-  [CODING PROCESS](https://github.com/so87/Home-Lab/blob/master/development-pipeline.pdf)
+  [CODING PROCESS](https://github.com/so87/Home-Lab/blob/master/development-pipeline.pdf).
+#### Deployment Process
+<p align="center">
+  <img width="1000" height="500" src="https://github.com/so87/Security-Lab-Manager/blob/dev/documentation/dev-deploy-process.PNG">
+</p
+If you like this and want to setup your own build and code scanning stack head with https certs look at my other [repository](https://github.com/so87/CI-CD-Secure-Pipeline)
 
 ### My Hardware
 Below is the hardware I use to run my home network.  My network works great for my needs, 
@@ -65,5 +70,5 @@ Wifi Hacking Practice
 
 # Community
 This is a really great community for seeing what others do.  Great resource for building your
-own homelab.  Although, most everyone in this subreddit overspends on equipment. <br />
+own homelab.  Becareful browsing this sub-reddit too much... it may make you buy expensive equipment. <br />
 [Reddit Home Lab](https://www.reddit.com/r/homelab/)
